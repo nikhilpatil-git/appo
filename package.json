@@ -1,0 +1,27 @@
+{
+  "name": "appo",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "chat.js",
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhilpatil2012/appo.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Nikhil Patil",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  ],
+  "license": "MIT"
+}
