@@ -1,17 +1,9 @@
-var fileName = process.argv[2];
-  
-  if(!fileName){
-
-     throw Error("File is not specified");
-  }
-
-  var fileProcess = require('fs');
 
   var server = require('net').createServer(function(connection){
 
     console.log("New subscriber has registered");
 
-    connection.write("Now watching "+ fileName + " for any change");
+    connection.write("New subscriber has registered");
 
    connection.on('data', function(chunk){
 
