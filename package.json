@@ -1,27 +1,23 @@
 {
-  "name": "appo",
-  "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Nikhil",
+  "version": "0.0.0",
+  "description": "this app is so cool man fuck yeah",
   "main": "chat.js",
   "scripts": {
-    "start": "node chat.js"
-  },
-  "dependencies": {
-  },
-  "engines": {
-    "node": "0.10.x"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/nikhilpatil2012/appo.git"
   },
   "keywords": [
-    "node",
+    "example",
     "heroku"
   ],
-  "author": "Nikhil Patil",
-  "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
-  ],
-  "license": "MIT"
+  "author": "Nikhil",
+  "license": "Ideapot",
+  "bugs": {
+    "url": "https://github.com/nikhilpatil2012/appo/issues"
+  },
+  "homepage": "https://github.com/nikhilpatil2012/appo"
 }
